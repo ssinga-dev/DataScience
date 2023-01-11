@@ -16,3 +16,14 @@ The same process is repeated for the 'Director', 'Production Country' and 'Genre
 
 At the end, the matrix is transposed using the transpose() method to make it more suitable for further analysis.
 The final DataFrames are actors_c, directors_c, countries_c, genres_c.
+
+Finally, we use Tkinter which is a Python library for creating graphical user interfaces for desktop applications. It is a thin object-oriented layer on top of the Tcl/Tk GUI toolkit. Tkinter provides elements of a GUI, such as buttons, text fields and methods for building graphical user interfaces, making it a popular choice for creating simple programs and prototypes. Tkinter is included in the standard library in Python, which means it does not need to be installed separately.
+
+Final result would look like this:-
+
+![image](https://user-images.githubusercontent.com/121909272/211705373-53eae93b-b3fe-44af-b3b9-b8961554a4e3.png)
+
+
+Type in your favorite movoe or a tv show to get reccomendation like below:-
+
+![image](https://user-images.githubusercontent.com/121909272/211705066-a71e3d2d-73f3-4a8b-9d5b-6b40296f9428.png)
